@@ -38,4 +38,4 @@ def send_sms(phone_number, message):
         print("Failed to send SMS.")
 
 # Usage example
-send_sms("5551234567", "Hello, from FraudGPT!")
+send_sms("5551234567", "Hello, from Attacker!")
